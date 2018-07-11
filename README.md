@@ -7,21 +7,21 @@ Who Wants To Be A Millionaire is a trivia game in which contestants are given a 
 
 There are 15 questions per game. The value of each question is as follows:
 
-1 - $100
-2 - $200
-3 - $300
-4 - $500
-5 - $1,000
-6 - $2,000
-7 - $4,000
-8 - $8,000
-9 - $16,000
-10 - $32,000
-11 - $64,000
-12 - $125,000
-13 - $250,000
-14 - $500,000
-15 - $1,000,000
+1. $100
+2. $200
+3. $300
+4. $500
+5. $1,000
+6. $2,000
+7. $4,000
+8. $8,000
+9. $16,000
+10. $32,000
+11. $64,000
+12. $125,000
+13. $250,000
+14. $500,000
+15. $1,000,000
 
 Each question is presented in multiple choice format. The player has 4 options to choose from. The player's purse if is worth the value of their most recently correctly answered question. 
 
